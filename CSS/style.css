@@ -321,7 +321,8 @@ h1,h2,h3,h4{
 .about .para{
     margin-bottom: 2rem;
 }
-.aboutmain{
+.starthead{
+    font-family: 'Roboto Mono', monospace;
     font-size: 4rem;
     font-weight: bold;
     text-align: center;
