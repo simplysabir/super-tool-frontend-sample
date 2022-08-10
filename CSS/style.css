@@ -307,3 +307,28 @@ h1,h2,h3,h4{
         left: 0;
     }
 }
+
+/* About Section */
+.about-image{
+    height: 100%;
+    width: 100%;
+    box-shadow: 0 0 10rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.abhead{
+    margin: 1rem 0 1rem 0;
+}
+.about .para{
+    margin-bottom: 2rem;
+}
+.aboutmain{
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 8rem 0;
+    color: var(--primary-color);
+    opacity: 0.9;
+    text-transform: lowercase;   
+}
+
+/* Tools Section */
